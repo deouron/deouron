@@ -87,8 +87,13 @@ informatics and math, including the prize-winner of the MIPT math
 Olympiad (top-250 of 5000+ participants), prize-winner of the regional
 stage of the physics Russian Olimpiad.
 
+CV 
+======
+
+### English
 [Sidorov resume.pdf](https://github.com/deouron/deouron/files/9946176/Sidorov.resume.pdf)
 
+### Русский
 [Сидоров резюме.pdf](https://github.com/deouron/deouron/files/9946175/default.pdf)
 
 
