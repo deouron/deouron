@@ -15,10 +15,23 @@ Education
 ### National Research University Higher School of Economics  (Moscow, Russia)
 #### BSc in Applied Mathematics and Computer Science (2021 - 2025)
 
-GPA: 8.49/10.0, Percentile: 3.36% (10/268 place in the program) (Cumulative rating based on the results of 3-4 modules of the 2021/2022 academic year)
+GPA: 8.49/10.0
+
+Percentile: 3.36% (10/268 place in the program)
+
+(Cumulative rating based on the results of 3-4 modules of the 2021/2022 academic year)
 
 #### Academic disciplines: 
-Algorithms and Data Structures, Python Programming Language (Advanced Course), Programming Methodology, Calculus, Probability theory, Linear algebra and geometry, Discrete Mathematics, Algebra, English for General Communication Purposes (Advanced Course).
+
+-  *Algebra*
+-  *Algorithms and Data Structures*
+-  *Calculus*
+-  *Discrete Mathematics*
+-  *English for General Communication Purposes (Advanced Course)*
+-  *Linear algebra and geometry*
+-  *Probability theory*
+-  *Programming Methodology*
+-  *Python Programming Language (Advanced Course)*
   ------------------------------------------------------------------- ---------------------------------------------
 ### State budget educational institution Lyceum Second School  (Moscow, Russia) (2019 - 2021)
  Russian National Exam: Maths, physics - 99/100, Russian language, informatics - 98/100 
@@ -55,11 +68,11 @@ https://github.com/deouron/image_processor
 
 ### Travel guide Gelendzhik - apartments «Gorizont»
 
--    *Created an Android application containing cards with attractions
+-    *Created an Android application containing cards with attractions*
 
--    *Implemented buttons that allow you to show the location of a place on the map
+-    *Implemented buttons that allow you to show the location of a place on the map*
 
--    *500+ downloads on Google Play
+-    *500+ downloads on Google Play*
     
  ### Technologies:
  Java, Android SDK
