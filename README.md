@@ -74,7 +74,7 @@ https://github.com/deouron/image_processor
 
 -    *500+ downloads on Google Play*
     
- ### Technologies:
+#### Technologies:
  Java, Android SDK
 
 https://play.google.com/store/apps/details?id=gorizont.gorizont&hl=ru&gl=US
