@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Dmitriy 👋
+
+<p align='center'>
+   <a href="https://t.me/deouron">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:dima.sidorov.2003@list.ru'>dima.sidorov.2003@list.ru</a>
+</p>
+
+
 
 <!--
 **deouron/deouron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
