@@ -32,7 +32,9 @@ Percentile: 3.36% (10/268 place in the program)
 -  *Probability theory*
 -  *Programming Methodology*
 -  *Python Programming Language (Advanced Course)*
-  ------------------------------------------------------------------- ---------------------------------------------
+
+____
+
 ### State budget educational institution Lyceum Second School  (Moscow, Russia) (2019 - 2021)
  Russian National Exam: Maths, physics - 99/100, Russian language, informatics - 98/100 
 
