@@ -92,11 +92,6 @@ stage of the physics Russian Olimpiad.
 CV 
 ======
 
-### English
-[Sidorov cv.pdf](https://github.com/deouron/deouron/files/9946333/Sidorov.cv.pdf)
-
-### Русский
-
-[Сидоров резюме.pdf](https://github.com/deouron/deouron/files/9946175/default.pdf)
+[Sidorov cv.pdf](https://github.com/deouron/deouron/files/9960917/Sidorov.cv.pdf)
 
 
