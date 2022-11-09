@@ -8,6 +8,12 @@
 <p align='center'>
    <a href='mailto:dima.sidorov.2003@list.ru'>dima.sidorov.2003@list.ru</a>
 </p>
+
+
+CV 
+======
+
+[Sidorov cv.pdf](https://github.com/deouron/deouron/files/9960917/Sidorov.cv.pdf)
                                                                       
 
 Education
@@ -15,9 +21,9 @@ Education
 ### National Research University Higher School of Economics  (Moscow, Russia)
 #### BSc in Applied Mathematics and Computer Science (2021 - 2025)
 
-GPA: 8.49/10.0
+GPA: 8.9/10.0
 
-Percentile: 3.36% (10/268 place in the program)
+Percentile: 3.73% (11/268 place in the program)
 
 (Cumulative rating based on the results of 3-4 modules of the 2021/2022 academic year)
 
@@ -36,20 +42,45 @@ Percentile: 3.36% (10/268 place in the program)
 ____
 
 ### State budget educational institution Lyceum Second School  (Moscow, Russia) (2019 - 2021)
- Russian National Exam: Maths, physics - 99/100, Russian language, informatics - 98/100 
+ Russian National Exam: Mathematics, physics - 99/100, Russian language, informatics - 98/100 
 
 Skills
 ======
 
--    **Programming language:** Python, C++, Java, SQL, HTML
+-    **Programming languages:** Python, C++, Java, SQL, HTML
 
 -    **Frameworks and Libraries:** numpy, pandas, plotly, matplotlib,
     bs4, telebot, STL
 
 -    **Tools:** GIT (github, gitlab), bash, Docker, Android SDK, Latex
 
+Awards
+======
+
+Participant, prize-winner and winner of many Olympiads in physics,
+informatics and math, including the prize-winner of the MIPT math
+Olympiad (top-250 of 5000+ participants), prize-winner of the regional
+stage of the physics Russian Olimpiad.
+
 Projects
 ========
+
+### @zenitovets_bot
+
+-    *Created a telegram bot that can make a user an admin, ban/unban and mute/unmute users, send chat statistics (number of
+people, admins, banned users in the chat)*
+
+-    *Implemented commands to send the latest news about the football club Zenit, standings of the current championship,
+descriptions of the previous and next matches (using site parsing https://fc-zenit.ru)*
+
+-    *Implemented error handling*
+    
+#### Technologies:
+ Python, telebot, bs4, requests
+ 
+https://github.com/deouron/ZenitovetsBot
+
+ -----------
 
 ### Image processor 
 
@@ -81,17 +112,6 @@ https://github.com/deouron/image_processor
 
 https://play.google.com/store/apps/details?id=gorizont.gorizont&hl=ru&gl=US
 
-Awards
-======
 
-Participant, prize-winner and winner of many Olympiads in physics,
-informatics and math, including the prize-winner of the MIPT math
-Olympiad (top-250 of 5000+ participants), prize-winner of the regional
-stage of the physics Russian Olimpiad.
-
-CV 
-======
-
-[Sidorov cv.pdf](https://github.com/deouron/deouron/files/9960917/Sidorov.cv.pdf)
 
 
