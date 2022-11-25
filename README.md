@@ -32,6 +32,7 @@ Percentile: 3.73% (11/268 place in the program)
 -  *Algebra*
 -  *Algorithms and Data Structures*
 -  *Calculus*
+-  *Computer Architecture and Operating Systems*
 -  *Discrete Mathematics*
 -  *English for General Communication Purposes (Advanced Course)*
 -  *Linear algebra and geometry*
@@ -50,7 +51,7 @@ Skills
 -    **Programming languages:** Python, C++, Java, SQL, HTML
 
 -    **Frameworks and Libraries:** numpy, pandas, plotly, matplotlib,
-    bs4, telebot, STL
+    bs4, scrapy, telebot, flask, STL
 
 -    **Tools:** GIT (github, gitlab), bash, Docker, Android SDK, Latex
 
