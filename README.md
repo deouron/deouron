@@ -1,5 +1,5 @@
 
-# Sidorov Dmitriy Alekseevich   
+# Sidorov Dmitriy    
 
 <p align='center'>
    <a href="https://t.me/deouron">
