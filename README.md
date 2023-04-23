@@ -42,22 +42,21 @@ Percentile: 2.66% (8/263 place in the program)
 Skills
 ======
 
--    **Programming languages:** Python, C++, C, Java, SQL, HTML
+-    **Programming languages:** Python, C++, C, SQL, HTML
 
 -    **Frameworks and Libraries:** numpy, pandas, plotly, matplotlib, bs4, scrapy, requests, telebot/aiogram, flask, STL
 
--    **Tools:** git (github, gitlab), bash, docker, Android SDK, Latex
+-    **Tools:** git (github, gitlab), bash, docker, Latex
 
 Achievements
 ======
 
+- top-50 of 4500+ participants in the advanced Algorithm 3.0 (2023) training division from Yandex [certificate](https://disk.yandex.ru/i/tCyAp5-FXgFlaQ)
+
+- Leetcode 300+ solved problems https://leetcode.com/Deouron/
+
 - prize-winner of the MIPT Mathematics Olympiad 2021 (top − 250 of 5000+ participants)
 
-- Leetcode 225+ solved problems https://leetcode.com/Deouron/
-
-- Russian national exam: Mathematics – 99/100, Physics – 99/100, Russian language – 98/100, Informatics – 98/100
-
-
-
+- Russian national exam (2021): Mathematics – 99/100, Physics – 99/100, Russian language – 98/100, Informatics – 98/100
 
 
