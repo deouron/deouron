@@ -17,7 +17,7 @@ CV
 
 Education
 =========
-### National Research University Higher School of Economics  (Moscow, Russia)
+### HSE University (Moscow, Russia)
 #### BSc in Applied Mathematics and Computer Science (2021 - 2025)
 
 GPA: 9.1/10.0
