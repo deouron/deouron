@@ -13,7 +13,9 @@
 CV 
 ======
 
-[Sidorov cv.pdf](https://github.com/deouron/deouron/files/11132090/Sidorov.cv.pdf)                                                                 
+
+[Sidorov cv.pdf](https://github.com/deouron/deouron/files/11521931/Sidorov.cv.pdf) 
+
 
 Education
 =========
@@ -53,10 +55,12 @@ Achievements
 
 - top-50 of 4500+ participants in the advanced Algorithm 3.0 (2023) training division from Yandex [certificate](https://disk.yandex.ru/i/tCyAp5-FXgFlaQ)
 
-- Leetcode 300+ solved problems https://leetcode.com/Deouron/
+- Leetcode 350+ solved problems https://leetcode.com/Deouron/
 
 - prize-winner of the MIPT Mathematics Olympiad 2021 (top − 250 of 5000+ participants)
 
 - Russian national exam (2021): Mathematics – 99/100, Physics – 99/100, Russian language – 98/100, Informatics – 98/100
+
+- Graduate of Lyceum Second School 2021 (top – 3 schools in Moscow)
 
 
