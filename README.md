@@ -14,7 +14,7 @@ CV
 ======
 
 
-[Sidorov cv.pdf](https://github.com/deouron/deouron/files/11521931/Sidorov.cv.pdf) 
+[Sidorov_CV.pdf](https://github.com/deouron/deouron/files/11521968/Sidorov_CV.pdf)
 
 
 Education
