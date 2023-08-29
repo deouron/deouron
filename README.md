@@ -57,7 +57,7 @@ Skills
 
 -    **Programming languages:** Python, C++, C, SQL, HTML
 
--    **Frameworks and Libraries:** numpy, pandas, plotly, matplotlib, bs4, scrapy, requests, aiogram, STL
+-    **Frameworks and Libraries:** numpy, pandas, plotly, matplotlib, scipy, requests, aiogram, STL
 
 -    **Tools:** git (github, gitlab), bash, docker, Latex
 
