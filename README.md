@@ -13,7 +13,7 @@
 CV 
 ======
 
-[Sidorov_CV.pdf](https://github.com/deouron/deouron/files/11780868/Sidorov_CV.pdf)
+[Sidorov_CV.pdf](https://github.com/deouron/deouron/files/12461289/Sidorov_CV.pdf)
 
 Education
 =========
@@ -53,7 +53,7 @@ Achievements
 
 - top-50 of 4500+ participants in the advanced Algorithm 3.0 (2023) training division from Yandex [certificate](https://disk.yandex.ru/i/tCyAp5-FXgFlaQ)
 
-- Leetcode 350+ solved problems https://leetcode.com/Deouron/
+- Leetcode 400+ solved problems https://leetcode.com/Deouron/
 
 - prize-winner of the MIPT Mathematics Olympiad 2021 (top − 250 of 5000+ participants)
 
