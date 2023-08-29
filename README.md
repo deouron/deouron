@@ -39,6 +39,19 @@ Percentile: 2.66% (8/263 place in the program)
 -  *Programming Methodology*
 -  *Python Programming Language (Advanced Course)*
 
+Experience
+=========
+### Yandex (Moscow, Russia, 2023)
+#### Analyst intern in the Yandex search commercial scenarios analytics team
+
+-  Implemented quality signals for offers and stores in the product database, checking that the good is sold at the stated price
+
+- Improved the metric for analyzing product base coverage by 15pp
+
+- Worked with ML models of scoring of offers and stores in Yandex search
+
+- Created a dashboard to track the zero bug process metric, which reflects the current level of bugs on the service
+
 Skills
 ======
 
