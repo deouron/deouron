@@ -13,7 +13,24 @@
 CV 
 ======
 
-[Sidorov_CV.pdf](https://github.com/deouron/deouron/files/12461289/Sidorov_CV.pdf)
+[Sidorov_CV.pdf](https://github.com/user-attachments/files/18734908/Sidorov_CV.pdf)
+
+
+Experience
+=========
+### Yandex (Moscow, Russia, 2023)
+#### Data Scientist in the Yandex Search Team (E-commerce scenarios)
+
+- Developed acceptance metrics and KPIs based on user behavior, including a new proxy metric that accelerated A/B experiment acceptance by 2x
+
+- Developed and implemented quality signals for offers and stores by introducing assessor-based markup, ensuring price accuracy and enhancing user trust through real-time database validation
+
+- Improved the metric for analyzing product base coverage by 15pp, enhancing the comprehensiveness of search results
+
+- Developed and optimized ML models (BERT, YandexGPT) for scoring offers and stores in Yandex search
+
+- Designed and implemented an assessor-based markup system from scratch, enabling accurate clustering of offers into product
+cards and ensuring quality title evaluation by assessors
 
 Education
 =========
@@ -39,19 +56,6 @@ Percentile: 2.66% (8/263 place in the program)
 -  *Programming Methodology*
 -  *Python Programming Language (Advanced Course)*
 
-Experience
-=========
-### Yandex (Moscow, Russia, 2023)
-#### Analyst intern in the Yandex search commercial scenarios analytics team
-
--  Implemented quality signals for offers and stores in the product database, checking that the good is sold at the stated price
-
-- Improved the metric for analyzing product base coverage by 15pp
-
-- Worked with ML models of scoring of offers and stores in Yandex search
-
-- Created a dashboard to track the zero bug process metric, which reflects the current level of bugs on the service
-
 Skills
 ======
 
@@ -69,6 +73,8 @@ Achievements
 - Leetcode 400+ solved problems https://leetcode.com/Deouron/
 
 - prize-winner of the MIPT Mathematics Olympiad 2021 (top − 250 of 5000+ participants)
+
+- Languages: Russian – native, English – C1, Deutsche – A2
 
 - Russian national exam (2021): Mathematics – 99/100, Physics – 99/100, Russian language – 98/100, Informatics – 98/100
 
