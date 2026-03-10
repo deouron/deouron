@@ -59,7 +59,7 @@ GPA: 9.1/10.0
 Percentile: 2.66% (8/263 place in the program)
 
 ### TU Wien (Vienna, Austria)
-#### MSc in Data Science (2026 - 2028)
+#### MSc in Data Science (2026 - 2027)
 
 
 Achievements
