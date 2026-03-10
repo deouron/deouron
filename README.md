@@ -22,10 +22,10 @@ CV
 
 Experience
 =========
-### Yandex (2023 - present)
-#### Data Scientist | Yandex Search & Fintech Teams (E-commerce & Payments)
+## Yandex (2023 - present)
+### Data Scientist | Yandex Search & Fintech Teams (E-commerce & Payments)
 
-Search (E-commerce):
+#### Search (E-commerce)
 
 • Developed and deployed ML models (BERT, LLM-assisted) to improve offer and merchant ranking in search.
 
@@ -37,7 +37,7 @@ Search (E-commerce):
 
 • Built an offer-to-product clustering system with human-in-the-loop validation.
 
-Fintech:
+#### Fintech
 
 • Launched cross-domain discount campaigns for Yandex Pay card users in Yandex search.
 
