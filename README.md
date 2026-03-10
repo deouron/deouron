@@ -20,7 +20,7 @@ CV
 
 Experience
 =========
-### Yandex 2023 - present
+### Yandex (2023 - present)
 #### Data Scientist | Yandex Search & Fintech Teams (E-commerce & Payments)
 
 Search (E-commerce):
@@ -56,40 +56,20 @@ GPA: 9.1/10.0
 
 Percentile: 2.66% (8/263 place in the program)
 
-(Cumulative rating based on the results of 1–2 modules of the 2022/2023 academic year)
+### TU Wien (Vienna, Austria)
+#### MSc in Data Science (2026 - 2028)
 
-#### Academic disciplines: 
-
--  *Algebra*
--  *Algorithms and Data Structures*
--  *Calculus*
--  *Computer Architecture and Operating Systems*
--  *Discrete Mathematics*
--  *English for General Communication Purposes (Advanced Course)*
--  *Linear algebra and geometry*
--  *Probability theory*
--  *Programming Methodology*
--  *Python Programming Language (Advanced Course)*
-
-Skills
-======
-
--    **Programming languages:** Python, C++, C, SQL, HTML
-
--    **Frameworks and Libraries:** numpy, pandas, plotly, matplotlib, scipy, requests, aiogram, STL
-
--    **Tools:** git (github, gitlab), bash, docker, Latex
 
 Achievements
 ======
 
 - top-50 of 4500+ participants in the advanced Algorithm 3.0 (2023) training division from Yandex [certificate](https://disk.yandex.ru/i/tCyAp5-FXgFlaQ)
 
-- Leetcode 400+ solved problems https://leetcode.com/Deouron/
+- Leetcode 450+ solved problems https://leetcode.com/Deouron/
 
 - prize-winner of the MIPT Mathematics Olympiad 2021 (top − 250 of 5000+ participants)
 
-- Languages: Russian – native, English – C1, Deutsche – A2
+- Languages: Russian – native, English – C1, Deutsche – B1
 
 - Russian national exam (2021): Mathematics – 99/100, Physics – 99/100, Russian language – 98/100, Informatics – 98/100
 
