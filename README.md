@@ -12,7 +12,7 @@
 CV 
 ======
 
-[CV.pdf]([https://github.com/user-attachments/files/18734908/Sidorov_CV.pdf](https://github.com/user-attachments/files/25864575/Sidorov_CV_tex.pdf))
+[Sidorov_CV_tex.pdf](https://github.com/user-attachments/files/25864592/Sidorov_CV_tex.pdf)
 
 
 Experience
