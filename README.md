@@ -6,7 +6,10 @@
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   <a href='mailto:dima.sidorov.2003@list.ru'>dima.sidorov.2003@list.ru</a>
+   <a href='mailto:dasidorov03@gmail.com'>dasidorov03@gmail.com</a>
+</p>
+<p align='center'>
+   <a href='https://www.linkedin.com/in/deouron/'>https://www.linkedin.com/in/deouron/</a>
 </p>
 
 CV 
@@ -17,19 +20,32 @@ CV
 
 Experience
 =========
-### Yandex (Moscow, Russia, 2023)
-#### Data Scientist in the Yandex Search Team (E-commerce scenarios)
+### Yandex 2023 - present
+#### Data Scientist | Yandex Search & Fintech Teams (E-commerce & Payments)
 
-- Developed acceptance metrics and KPIs based on user behavior, including a new proxy metric that accelerated A/B experiment acceptance by 2x
+Search (E-commerce):
 
-- Developed and implemented quality signals for offers and stores by introducing assessor-based markup, ensuring price accuracy and enhancing user trust through real-time database validation
+• Developed and deployed ML models (BERT, LLM-assisted) to improve offer and merchant ranking in search.
 
-- Improved the metric for analyzing product base coverage by 15pp, enhancing the comprehensiveness of search results
+• Increased product base coverage by 15 pp, improving search completeness.
 
-- Developed and optimized ML models (BERT, YandexGPT) for scoring offers and stores in Yandex search
+• Accelerated A/B testing pipeline by 2× via proxy metrics and behavior-based KPIs.
 
-- Designed and implemented an assessor-based markup system from scratch, enabling accurate clustering of offers into product
-cards and ensuring quality title evaluation by assessors
+• Enhanced price accuracy with validation pipelines and real-time checks.
+
+• Built an offer-to-product clustering system with human-in-the-loop validation.
+
+Fintech:
+
+• Launched cross-domain discount campaigns for Yandex Pay card users in Yandex search.
+
+• Built end-to-end merchant dashboard tooling with backend logic, task storage, and automated daily updates.
+
+• Launched credit issuance to partner merchants using Yandex payment services, fully digitizing the user funnel and increasing end-to-end conversion.
+
+• Conducted analytics on promo campaigns, aligning incentives with user behavior and merchant performance.
+
+• Developed an analytics tool to measure total merchant turnover across all payment methods and track the share processed via Yandex Pay, enabling identification of high-potential partners and market segments.
 
 Education
 =========
