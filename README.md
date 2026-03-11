@@ -71,7 +71,7 @@ Achievements
 
 - prize-winner of the MIPT Mathematics Olympiad 2021 (top − 250 of 5000+ participants)
 
-- Languages: Russian – native, English – C1, Deutsche – B1
+- Languages: Russian – native, English – C1, German – B1
 
 - Russian national exam (2021): Mathematics – 99/100, Physics – 99/100, Russian language – 98/100, Informatics – 98/100
 
