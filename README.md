@@ -14,12 +14,6 @@
    <a href='mailto:dasidorov03@gmail.com'>dasidorov03@gmail.com</a>
 </p>
 
-CV 
-======
-
-[Sidorov_CV_tex.pdf](https://github.com/user-attachments/files/25864592/Sidorov_CV_tex.pdf)
-
-
 Experience
 =========
 ## Yandex (2023 - present)
